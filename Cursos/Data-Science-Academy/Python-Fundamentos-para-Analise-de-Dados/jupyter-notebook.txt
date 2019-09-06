@@ -1,0 +1,16 @@
+
+
+Jupyter Lab
+
+url:
+https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html
+
+intalação
+
+conda install -c conda-forge jupyterlab
+
+
+execução
+
+jupyter notebook
+jupyter lab
